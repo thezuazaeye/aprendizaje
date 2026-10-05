@@ -4,7 +4,7 @@ Registro público de mi formación como desarrollador e ingeniero informático: 
 
 ## Sobre mí
 
-Soy JP Arevalo, estudiante de informática en DUOC UC. Me interesan la ciencia de datos, la ingeniería de datos, la analítica deportiva y el desarrollo de software.
+Soy JP Arevalo, estudiante de 2do año de Ingeniería Informática en DUOC UC. Me interesan la ciencia de datos, la ingeniería de datos, la analítica deportiva y el desarrollo de software.
 
 ## Cómo está organizado
 
