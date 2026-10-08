@@ -22,7 +22,7 @@ Cada tema se organiza en carpetas numeradas según el orden en que lo aprendí, 
 
 | Tema | Estado |
 |------|--------|
-| Python | Próximamente |
+| Python | En curso |
 | Java | Por comenzar |
 | Kotlin | Por comenzar |
 | JavaScript | Por comenzar |
